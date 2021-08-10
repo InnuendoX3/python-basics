@@ -3,5 +3,6 @@ def run():
     for character in sentence:
         print(character.upper())
 
+
 if __name__ == "__main__":
     run()
